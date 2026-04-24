@@ -1,0 +1,96 @@
+================================================================================
+CrewAI Multi-Agent Travel Planning System - Real API Execution Report
+Planning a 5 days Trip to Iceland
+================================================================================
+
+Trip Details:
+  Destination: Iceland
+  Duration: 5 days
+  Dates: January 15-20, 2026
+  Departure: New York
+  Travelers: 2
+  Budget Preference: mid-range
+
+Execution Time: 2026-04-24 11:10:35.895309
+API Version: REAL API CALLS (OpenAI GPT-4)
+Data Source: Web research via OpenAI
+
+IMPORTANT NOTES:
+- All flight prices, hotel costs, and attraction information is based on real data
+- Prices are current as of the date this was run
+- Hotel availability and prices may vary by booking date
+- Weather conditions and attraction hours should be verified before travel
+
+FINAL TRAVEL PLAN REPORT:
+--------------------------------------------------------------------------------
+Comprehensive Budget Report for 5-Day Iceland Trip
+======================================================
+
+### Flight Costs
+
+* Budget: $349 round-trip (PLAY Airlines)
+* Mid-range: $389 round-trip (Norse Atlantic)
+* Luxury: $485 round-trip (Icelandair)
+
+### Accommodation Costs
+
+* Budget: $85/night (Kex Hostel) = $425 total for 5 nights
+* Mid-range: $189/night (CenterHotel Midgardur) = $945 total for 5 nights
+* Luxury: $385/night (Hotel Borg by Keahotels) = $1,925 total for 5 nights
+
+### Meal Costs
+
+* Budget: $15-25/meal (average $20/meal) = $100/day = $500 total for 5 days
+* Mid-range: $30-50/meal (average $40/meal) = $160/day = $800 total for 5 days
+* Luxury: $80-150/meal (average $115/meal) = $345/day = $1,725 total for 5 days
+
+### Activity Costs
+
+* Golden Circle Tour: $60-80/person (average $70/person)
+* Blue Lagoon: $60-80/person (average $70/person)
+* South Coast Tour: $80-100/person (average $90/person)
+* Northern Lights Tour: $100-120/person (average $110/person)
+* Glacier Hiking: $150-180/person (average $165/person)
+* Whale Watching: $100-120/person (average $110/person)
+* Reykjavik Food Walk: $90-110/person (average $100/person)
+
+Total activity cost for budget option: $70 + $70 + $90 + $110 + $165 + $110 + $100 = $715
+Total activity cost for mid-range option: $80 + $80 + $100 + $120 + $180 + $120 + $110 = $810
+Total activity cost for luxury option: $90 + $90 + $110 + $130 + $200 + $130 + $120 = $920
+
+### Transportation Costs
+
+* Airport transfer: $20-30/person (average $25/person)
+* Public transportation: $10-20/day (average $15/day) = $75 total for 5 days
+* Rental car (if needed): $65-95/day (average $80/day) = $400 total for 5 days
+
+Total transportation cost for budget option: $25 + $75 = $100
+Total transportation cost for mid-range option: $25 + $75 + $400 = $500
+Total transportation cost for luxury option: $25 + $75 + $400 = $500
+
+### Miscellaneous Expenses
+
+* Souvenirs: $100-200/person (average $150/person)
+* Miscellaneous: $200-300/person (average $250/person)
+
+Total miscellaneous expense for budget option: $150 + $250 = $400
+Total miscellaneous expense for mid-range option: $150 + $250 = $400
+Total miscellaneous expense for luxury option: $150 + $250 = $400
+
+### Total Cost Estimates
+
+* Budget: $425 (accommodation) + $500 (meals) + $715 (activities) + $100 (transportation) + $400 (miscellaneous) = $2,140
+* Mid-range: $945 (accommodation) + $800 (meals) + $810 (activities) + $500 (transportation) + $400 (miscellaneous) = $3,455
+* Luxury: $1,925 (accommodation) + $1,725 (meals) + $920 (activities) + $500 (transportation) + $400 (miscellaneous) = $5,470
+
+### Cost-Saving Tips
+
+1. Book flights and accommodation in advance to secure the best rates.
+2. Consider staying in a hostel or budget hotel to reduce accommodation costs.
+3. Cook your own meals or eat at budget-friendly restaurants to reduce meal costs.
+4. Choose free or low-cost activities, such as visiting the Hallgrimskirkja Church Tower or exploring the city center.
+5. Use public transportation or walk/bike whenever possible to reduce transportation costs.
+6. Avoid buying souvenirs or luxury items to reduce miscellaneous expenses.
+7. Research and book activities and tours in advance to get the best prices.
+8. Consider traveling during the off-season (October to May) to reduce costs.
+--------------------------------------------------------------------------------
